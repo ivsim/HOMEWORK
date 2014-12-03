@@ -20,7 +20,7 @@ public class Exec1 {
 	{
 		Scanner input = new Scanner(System.in);
 	
-		System.out.println("Please, enter one your word: ");
+		System.out.println("Please, enter one word: ");
 		
 		String inputText = input.nextLine();
 		
